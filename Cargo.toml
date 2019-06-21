@@ -1,0 +1,7 @@
+[package]
+name = "rust-in-motion-course"
+version = "0.1.0"
+authors = ["Andre Jasiskis <midea.andre@gmail.com>"]
+edition = "2018"
+
+[dependencies]
